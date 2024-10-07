@@ -61,8 +61,8 @@ This is a PDF parser application built with Next.js that allows users to upload 
 4. If there is an error, an alert will be shown.
 
 ## Tech Stack
-- **Frontend:** Next.js, React
+- **Frontend:** Next.js
 - **PDF Parsing:** pdf2json
-- **Icons and UI Elements:** lucide-react, custom styles
+- **Icons and UI Elements:** lucide-react, custom styles, shadcn
 
 ---
